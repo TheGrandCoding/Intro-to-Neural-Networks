@@ -1,4 +1,4 @@
-can't actually see any neural network stuff yet but it will come
+so basic it's not actually cool anymore
 
 notes
 -------------------------------
