@@ -29,6 +29,6 @@ def update(): #this is how using slopes will lead you to the correct answer
     print("b: ", b)
 
 #a training loop,
-#minimising the cost
+#minimising the cost over every iteration
 for i in range(5000):
     update()
